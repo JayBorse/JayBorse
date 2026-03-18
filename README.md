@@ -1,7 +1,11 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Jignesh%20Borse&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
-# Jignesh Borse
-**Software Engineer | Full-Stack Developer | AI Enthusiast**
+<br/>
+
+<div align="center">
+
 📍 Pune, Maharashtra, India
 
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
