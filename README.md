@@ -1,30 +1,24 @@
-<div align="left">
+<h1 align="center">Hi 👋, I'm Jignesh Borse</h1>
+<h3 align="center">A passionate computer science student from India</h3>
 
-# Jignesh Borse
-**Software Engineer · Full Stack Developer · AI Enthusiast**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayborse&label=Profile%20views&color=0e75b6&style=flat" alt="jayborse" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayborse" alt="jayborse" /></a> </p>
 
-I build scalable web applications, explore local machine learning models, and design in 3D. Currently developing **MusicLearn** and **Vako Foods**, while tinkering with home servers and offline mesh networks. When I'm not writing Python or React, I'm usually experimenting with Blender or cinematic photography.
+<p align="left"> <a href="https://twitter.com/jayborse1" target="blank"><img src="https://img.shields.io/twitter/follow/jayborse1?logo=twitter&style=for-the-badge" alt="jayborse1" /></a> </p>
 
-<br>
-
-### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=py,js,react,firebase,c,cpp,html,css,tailwind,nodejs,git,blender,linux&theme=dark" alt="Tech Stack" />
-
-<br>
-
-### 📊 GitHub Activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jayborse&show_icons=true&hide_border=true&bg_color=transparent&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayborse&show_icons=true&hide_border=true&layout=compact&bg_color=transparent&title_color=c9d1d9&text_color=8b949e" height="150" alt="Languages" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jayborse1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayborse1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jignesh-borse-60182a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jignesh-borse-60182a21a" height="30" width="40" /></a>
+<a href="https://instagram.com/_jayborse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jignesh__borse" height="30" width="40" /></a>
 </p>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🌐 Connect
-<a href="https://twitter.com/jayborse1"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=X&logoColor=white" alt="X" /></a>
-<a href="https://www.linkedin.com/in/jignesh-borse-60182a21a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/_jayborse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayborse&show_icons=true&locale=en&layout=compact" alt="jayborse" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayborse&show_icons=true&locale=en" alt="jayborse" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayborse&" alt="jayborse" /></p>
