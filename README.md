@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jignesh Borse
-**Software Engineer | Full-Stack Developer | AI & 3D Generalist**
+**Software Engineer | Full-Stack Developer | AI Enthusiast**
 📍 Pune, Maharashtra, India
 
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -13,19 +13,9 @@
 <br/>
 
 ## 👨‍💻 Executive Summary
-I am a Software Engineer holding a B.E. in Computer Engineering (AR & VR Honors). I specialize in architecting scalable full-stack web applications, integrating local machine learning models, and developing interactive digital experiences. My engineering focus bridges robust backend infrastructure with highly functional, user-centric interfaces. 
+I am a Software Engineer holding a B.E. in Computer Engineering with honors in AR & VR. I specialize in architecting scalable full-stack web applications, integrating machine learning models, and designing 3D assets. My engineering philosophy centers on writing clean, maintainable code and building robust backend infrastructures that power highly functional, user-centric interfaces. Always eager to explore emerging technologies and optimize system performance.
 
 ---
-
-## 🚀 Featured Engineering
-
-| Project | Description | Architecture |
-| :--- | :--- | :--- |
-| **MusicLearn** | An interactive music education platform featuring an AI instructor ("Sarah") and real-time interactive sheet music rendering using SeeScore and OpenSheetMusicDisplay. | React, Firebase, Python |
-| **AICAM-X** | An advanced AI-driven surveillance and monitoring system designed for intelligent visual tracking and analysis. | Python, Machine Learning |
-| **Vako Foods** | A comprehensive full-stack food ordering platform featuring scalable real-time database management and a seamless UI. | React, Firebase |
-
-<br/>
 
 ## 🛠 Technical Arsenal
 
@@ -36,6 +26,8 @@ I am a Software Engineer holding a B.E. in Computer Engineering (AR & VR Honors)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
+<br/>
+
 **Frameworks & Infrastructure** <br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -43,11 +35,15 @@ I am a Software Engineer holding a B.E. in Computer Engineering (AR & VR Honors)
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
+<br/>
+
 **Specialized Software** <br/>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-5C5C5C?style=flat-square&logo=openai&logoColor=white" />
 
 <br/>
+
+---
 
 ## 📈 GitHub Analytics
 
