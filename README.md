@@ -1,24 +1,66 @@
-<h1 align="center">Hi 👋, I'm Jignesh Borse</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h1 align="center">
+  Hi there, I'm Jignesh 👋
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayborse&label=Profile%20views&color=0e75b6&style=flat" alt="jayborse" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayborse" alt="jayborse" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jayborse1" target="blank"><img src="https://img.shields.io/twitter/follow/jayborse1?logo=twitter&style=for-the-badge" alt="jayborse1" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jayborse1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayborse1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jignesh-borse-60182a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jignesh-borse-60182a21a" height="30" width="40" /></a>
-<a href="https://instagram.com/_jayborse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jignesh__borse" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Building+AI+%26+Machine+Learning+Apps;Exploring+Web+Dev+%26+3D+Modeling" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://twitter.com/jayborse1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/jignesh-borse-60182a21a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/_jayborse" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayborse&show_icons=true&locale=en&layout=compact" alt="jayborse" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayborse&label=Profile%20views&color=0e75b6&style=flat-square" alt="jayborse views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayborse&show_icons=true&locale=en" alt="jayborse" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayborse&" alt="jayborse" /></p>
+### 👨‍💻 About Me
+* 🔭 Currently building awesome full-stack web applications and exploring AI/ML.
+* 🌱 Deep diving into **React, Firebase, Python, and scalable architecture**.
+* 🎨 When I'm not coding, I enjoy 3D modeling with **Blender**, cinematic photography, and exploring hardware/self-hosting.
+* ⚡ Fun fact: I love discovering unique ways to combine art, music, and code.
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,firebase,blender,git&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=jayborse&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayborse&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayborse&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+</div>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jayborse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
