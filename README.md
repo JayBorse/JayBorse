@@ -1,59 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:1e1b4b,100:09090b&height=260&section=header&text=Jignesh%20Borse&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open-Source%20Toolmaker%20%7C%20Full-Stack%20Architect&descAlignY=58&descSize=19&descColor=a1a1aa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:1e1b4b,100:09090b&height=260&section=header&text=Jignesh%20Borse&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20iOS%20%26%20Mobile%20Systems%20%7C%20AI%20%26%20Spatial%20Tech&descAlignY=58&descSize=18&descColor=a1a1aa" width="100%"/>
 </div>
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jignesh-borse-60182a21a)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jignesh-portfolio-3.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jignesh-borse-60182a21a/)
   [![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jayborse1)
   [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~jigneshborse)
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@jigneshborse)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jigneshborse111@gmail.com)
 
   <p align="center">
-    📍 <b>Pune, Maharashtra, India</b> &nbsp;•&nbsp; 💻 <b>Building Developer Tools & Apple Ecosystem Intelligence</b>
+    📍 <b>Pune, Maharashtra, India</b> &nbsp;•&nbsp; 🎓 <b>B.E. Computer Engineering (AR &amp; VR Honors)</b> &nbsp;•&nbsp; 🚀 <b>Building AI &amp; Developer Tooling</b>
   </p>
 
 </div>
 
 ---
 
-## ⚡ Executive Summary
+## 👨‍💻 About Me
 
-I am a **Software Engineer** holding a B.E. in Computer Engineering with honors in AR & VR. I design and architect high-performance full-stack web applications, developer CLI tooling, and AI agent servers.
+I am a **Software Engineer** specializing in **mobile application architecture (React Native, native iOS/Swift), on-device CoreML/AI integration, and developer tooling**.
 
-My engineering philosophy centers on **zero-dependency efficiency, deterministic systems, and crafting frictionless developer experiences**. Currently building developer tools for the Apple ecosystem, Model Context Protocol (MCP) agent workflows, and market intelligence platforms.
+I graduated in 2024 with a B.E. in Computer Engineering (Honors in AR & VR) from Savitribai Phule Pune University. I love engineering systems where **experimentation, performance optimization, and deep technical research** meet elegant developer and user experiences.
 
 ---
 
-## 🚀 Featured Work & Open Source
+## 💼 Industry Experience
+
+### 🏢 **Junior Software Engineer** · [Datapecan](https://datapecan.com) *(Oct 2025 — Present)*
+*Sole Mobile Engineer owning end-to-end production mobile development, App Store releases, and native iOS systems.*
+* **Saved $11,000+ in SDK licensing fees**: Engineered a custom, lightweight MusicXML player using React WebView and Open Sheet Music Display (OSMD), eliminating an expensive third-party SDK and significantly slimming down app binary size.
+* **CoreML Audio Intelligence**: Custom-integrated **Spotify's Basic Pitch CoreML model** with native Swift post-processing to eliminate harmonic artifacts for real-time acoustic pitch detection; wired **CoreMIDI** for zero-latency physical keyboard input.
+* **LiDAR-Free AR Measurement**: Developed a computer vision wall measurement system for **BidNinja** using **ARKit**, calculating accurate real-world wall dimensions solely through camera feature points without requiring LiDAR hardware.
+* **Full Release Lifecycle**: Managed Xcode profiling, TestFlight distribution, native Swift/Obj-C bridging, and Apple App Store Connect review compliance.
+
+---
+
+## 🚀 Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/JayBorse/appsvantage-preflight">appsvantage-preflight</a></h3>
-      <p><b>Apple App Store Pre-Flight Compliance Auditor & MCP Agent Server</b></p>
+      <p><b>Apple App Store Pre-Flight Compliance Auditor &amp; MCP Agent Server</b></p>
       <ul>
-        <li>Published on <a href="https://www.npmjs.com/package/appsvantage-preflight">npm (v1.4.0)</a> as a standalone, zero-dependency Node.js CLI & stdio MCP server.</li>
-        <li>Audits iOS <code>.ipa</code> packages, Xcode projects, and <code>Info.plist</code> files locally against 50+ Apple Review Guidelines.</li>
+        <li>Published on <a href="https://www.npmjs.com/package/appsvantage-preflight">npm (v1.4.0)</a> as a zero-dependency standalone CLI tool.</li>
+        <li>Audits iOS <code>.ipa</code> packages and Xcode trees locally against 50+ Apple Review Guidelines (2.1, 4.3, 5.1.1).</li>
         <li>Automated generator for Apple's May 2024 mandatory <code>PrivacyInfo.xcprivacy</code> manifests.</li>
-        <li>Verified and listed across <b>Smithery.ai</b>, <b>Glama</b>, and <b>Awesome-MCP-Servers</b>.</li>
+        <li>Exposes a Model Context Protocol (MCP) server for Cursor, Windsurf, and Claude Code.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/npm/v/appsvantage-preflight?color=emerald&label=npm%20version" />
+        <img src="https://img.shields.io/npm/v/appsvantage-preflight?color=emerald&label=npm" />
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://www.appsvantage.com">AppsVantage Platform</a></h3>
-      <p><b>Apple Ecosystem Intelligence & Preflight Shield</b></p>
+      <h3>🤖 <a href="https://jignesh-portfolio-3.vercel.app">Primordia AI</a></h3>
+      <p><b>Autonomous Agent World Simulation</b></p>
       <ul>
-        <li>Full-stack Next.js 14 web application analyzing App Store competitor monetization, pricing benchmarks, and untapped app niches.</li>
-        <li>Features a client-side WebAssembly IPA inspector, customer billing via Dodo Payments, and automated PDF compliance report exports.</li>
-        <li>Real-time database sync and row-level security powered by Supabase & PostgreSQL.</li>
+        <li>Architected an end-to-end virtual world connecting a <b>Godot 3D</b> frontend to a <b>Python FastAPI</b> backend.</li>
+        <li>Implemented autonomous character behavior powered by local <b>Llama 3 via Ollama</b> with long-term memory persisted in SQLite.</li>
+        <li>Simulates emergent multi-agent social interactions and dynamic behavioral adaptations.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Platform-Live-success" />
+        <img src="https://img.shields.io/badge/Godot-3D-478CBF?logo=godotengine&logoColor=white" />
+        <img src="https://img.shields.io/badge/Llama_3-Ollama-047857" />
+        <img src="https://img.shields.io/badge/FastAPI-Python-009688" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://www.appsvantage.com">AppsVantage Platform</a></h3>
+      <p><b>Apple App Store Intelligence &amp; Niche Discovery</b></p>
+      <ul>
+        <li>Full-stack Next.js 14 web suite analyzing competitor pricing structures, review velocity, and untapped App Store niches.</li>
+        <li>Features in-browser client-side IPA inspection, Supabase PostgreSQL with RLS, and Dodo Payments integration.</li>
+      </ul>
+      <p>
         <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" />
+        <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://jignesh-portfolio-3.vercel.app">Interactive Portfolio</a></h3>
+      <p><b>Custom Web Experience with Liquid Canvas &amp; Dynamic Shaders</b></p>
+      <ul>
+        <li>Built with Next.js, Tailwind CSS, custom HTML5 Canvas particle physics, and responsive liquid glass displacement filters.</li>
+        <li>Showcases full engineering case studies, interactive tech tag filtering, and mobile optimizations.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Live-Portfolio-success" />
+        <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC" />
       </p>
     </td>
   </tr>
@@ -65,33 +105,37 @@ My engineering philosophy centers on **zero-dependency efficiency, deterministic
 
 <div align="left">
 
-### **Core Languages & Systems**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### **Mobile & Native iOS**
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white)
+![CoreML](https://img.shields.io/badge/CoreML-333333?style=flat-square&logo=apple&logoColor=white)
+![CoreMIDI](https://img.shields.io/badge/CoreMIDI-4B5563?style=flat-square&logo=apple&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-276EF1?style=flat-square&logo=apple&logoColor=white)
 
 ### **Frontend & Architecture**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### **Backend, Cloud & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### **AI, Tooling & Specialized**
+### **AI & Spatial Computing**
 ![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
-![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black)
-![Apple iOS Ecosystem](https://img.shields.io/badge/Apple_iOS_Tooling-000000?style=flat-square&logo=apple&logoColor=white)
+![Llama 3](https://img.shields.io/badge/Llama_3-Ollama-047857?style=flat-square)
+![Godot 3D](https://img.shields.io/badge/Godot_3D-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender_3D-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 </div>
@@ -114,6 +158,5 @@ My engineering philosophy centers on **zero-dependency efficiency, deterministic
 ---
 
 <div align="center">
-  <sub>Designed &amp; Maintained by <b>Jignesh Borse</b> • Built for performance &amp; clean craftsmanship.</sub>
+  <sub>Designed &amp; Maintained by <b>Jignesh Borse</b> • Explore more at <a href="https://jignesh-portfolio-3.vercel.app">jignesh-portfolio-3.vercel.app</a></sub>
 </div>
-
